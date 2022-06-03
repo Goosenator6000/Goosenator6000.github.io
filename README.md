@@ -1,4 +1,4 @@
-# This Account Is Just An Alt For "The Goosenator 6000" Website To Have A More Friendly URL.
+# This Account Is Just An Alt For "The Goosenator 6000" Website To Have A More Friendly URL. I Am @Norok-The-Diablo.
 
 # This Is Just The GitHub Page For The Goosenator 6000 Website NOT "The Goosenator 6000".
 
