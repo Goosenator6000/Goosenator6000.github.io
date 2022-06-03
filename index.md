@@ -33,7 +33,7 @@ Haveeee fuun wittth youur gooossse!!1! (Sorry about the typo's, it is hard to ty
 
 ### Special Thanks
 
-All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes to [Samperson](https://samperson.itch.io/). The idea for both "Desktop Goose" and "The Goosenator 6000" came from ["Untitled Goose Game"](https://goose.game/) a video game about a chaotic goose made by [House House](https://househou.se/). The rest of the project was programmed by me, @Norok-The-Diablo aka Toma Brasoveanu, a Romanian-American programmer that lives in California.
+All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes to [Samperson](https://samperson.itch.io/). The idea for both "Desktop Goose" and "The Goosenator 6000" came from ["Untitled Goose Game"](https://goose.game/) a video game about a chaotic goose made by [House House](https://househou.se/). The rest of the project was programmed by me, [@Norok-The-Diablo](https://github.com/Norok-The-Diablo/) aka Toma Brasoveanu, a Romanian-American programmer that lives in California.
 
 
 
