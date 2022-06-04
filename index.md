@@ -46,24 +46,7 @@ All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes t
 
 ## * DISCLAIMER * I am NOT affiliated with [Samperson](https://samperson.itch.io/) or [House House](https://househou.se). I am also NOT liable for any damage done to your computer using this application.
 
-                                                        _...--.
-                                        _____......----'     .'
-                                  _..-''                   .'
-                                .'                       ./
-                        _.--._.'                       .' |
-                     .-'                           .-.'  /
-                   .'   _.-.                     .  \   '
-                 .'  .'   .'    _    .-.        / `./  :
-               .'  .'   .'  .--' `.  |  \  |`. |     .'
-            _.'  .'   .' `.'       `-'   \ / |.'   .'
-         _.'  .-'   .'     `-.            `      .'
-       .'   .'    .'          `-.._ _ _ _ .-.    :
-      /    /o _.-'               .--'   .'   \   |
-    .'-.__..-'                  /..    .`    / .'
-  .'   . '                       /.'/.'     /  |
- `---'                                   _.'   '
-                                       /.'    .'
-                                        /.'/.'
+                               
 
 #                                                               MAY THE GOOSE BE WITH YOU...
 ![The Swarm](swarm-of-geese.png)
@@ -71,5 +54,3 @@ All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes t
 ##### I found this image on [Samperson's itch.io page](https://samperson.itch.io/).
 
 #### hjonk! 
-
-
