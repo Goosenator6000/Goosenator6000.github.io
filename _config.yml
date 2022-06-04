@@ -7,3 +7,6 @@ exclude:
   - README.md
   - LICENSE
 rss-description: The Goosenator 6000
+plugins:
+  -jekyll-responsive_image
+  -emoji_for_jekyll
