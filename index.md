@@ -48,33 +48,27 @@ All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes t
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+___
+                               ,-""   `.
+                             ,'  _   O )`-._
+                            /  ,' `-._<.===-'
+                           /  /
+                          /  ;
+              _          /   ;
+ (`._    _.-"" ""--..__,'    |
+ <_  `-""                     \
+  <`-                          :
+   (__   <__.                  ;
+     `-.   '-.__.      _.'    /
+        \      `-.__,-'    _,'
+         `._    ,    /__,-'
+            ""._\__,'< <____
+                 | |  `----.`.
+                 | |        \ `.
+                 ; |___      \-``
+                 \   --<
+                  `.`.<
+                    `-'
 
 
 
@@ -83,6 +77,6 @@ All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes t
 
 ##### I found this image on [Samperson's itch.io page](https://samperson.itch.io/).
 
-#### hjonk!
+#### 🦢 hjonk! 
 
 
