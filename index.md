@@ -53,4 +53,4 @@ All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes t
 
 ##### I found this image on [Samperson's itch.io page](https://samperson.itch.io/).
 
-#### hjonk! [🦢](/goose.md)
+#### hjonk! [🦢](Goosenator6000.github.io/goose.md)
