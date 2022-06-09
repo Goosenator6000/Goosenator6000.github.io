@@ -6,7 +6,6 @@ github:
 exclude:
   - view.png
   - download.png
-  - index.md
   - _config.yml
   - README.md
   - LICENSE
