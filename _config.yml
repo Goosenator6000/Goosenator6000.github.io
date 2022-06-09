@@ -4,6 +4,9 @@ author: Toma Brasoveanu
 github:
   is_project_page: false
 exclude:
+  - view.png
+  - download.png
+  - index.md
   - _config.yml
   - README.md
   - LICENSE
