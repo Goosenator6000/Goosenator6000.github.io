@@ -4,6 +4,7 @@ author: Toma Brasoveanu
 github:
   is_project_page: false
 exclude:
+  - _config.yml
   - README.md
   - LICENSE
 rss-description: The Goosenator 6000
