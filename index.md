@@ -28,7 +28,7 @@ First, download "The Goosenator 6000". Second, extract the .zip file you just do
 
 ### How Do I Use "The Goosenator 6000"?
 
------
+...
 
 
 
