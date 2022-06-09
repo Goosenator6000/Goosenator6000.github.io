@@ -28,7 +28,7 @@ First, download "The Goosenator 6000". Second, extract the .zip file you just do
 
 ### How Do I Use "The Goosenator 6000"?
 
-...
+You use "The Goosenator 6000" as follows: First you run the "Installer 1" file off the USB. Once this is done you have the modified ["Desktop Goose"](https://samperson.itch.io/desktop-goose) Installed on the computer. Now you have full freedom, you can turn on music, make the goose rainbow, and so much more!
 
 
 
