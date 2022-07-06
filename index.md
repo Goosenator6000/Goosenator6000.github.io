@@ -56,7 +56,7 @@ All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes t
                                
 
 #                                                               MAY THE GOOSE BE WITH YOU...
-![The Swarm](swarm-of-geese.png)
+[![The Swarm](swarm-of-geese.png)](https://bmoviescript.github.io)
 
 ##### I found this image on [Samperson's itch.io page](https://samperson.itch.io/).
 
