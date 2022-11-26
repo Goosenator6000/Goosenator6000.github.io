@@ -22,7 +22,7 @@ ___
 
 ### Installation Guide
 
-First, download "The Goosenator 6000". Second, extract the .zip file you just downloaded from this website or off my GitHub repository. Third, copy-paste the contents of the .zip onto a USB drive. Make sure the contents of the .zip are not in a folder on the USB drive. NOTE: You MUST have "The Goosenator 6000" on a D: drive. It was programmed with the D: drive in mind and using any other letter for your USB will require modification of the code. ALSO NOTE: "The Goosenator 6000" uses a modified version of ["Desktop Goose"](https://samperson.itch.io/desktop-goose).
+First, download the source code or release of your choice. Second, extract the .zip file you just downloaded from this GitHub repository or my website then copy-paste the contents of the .zip on to a USB drive (Make sure the contents of the .zip are in the root of the USB drive and not in a folder.) if you downloaded the source code. If you downloaded the .exe file double click it and replace the directory the installer wants to install to with D:\ . NOTE: You MUST have "The Goosenator 6000" on a D: drive. It was programmed with the D: drive in mind and using any other letter mapped with your USB will require modification of the code. ALSO NOTE: "The Goosenator 6000" uses a modified version of ["Desktop Goose"](https://samperson.itch.io/desktop-goose).
 
 
 
