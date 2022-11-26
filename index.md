@@ -1,4 +1,6 @@
+<p align="center">
 [![View "The Goosenator 6000"](view.png)](https://github.com/Norok-The-Diablo/goosenator/) [![Download "The Goosenator 6000" source](download1.png)](https://github.com/Norok-The-Diablo/goosenator/archive/refs/heads/main.zip) [![Download "The Goosenator 6000" exe](download2.png)](https://github.com/Norok-The-Diablo/goosenator/releases/download/goose/Install.The.Goosenator.exe)
+</p>[![View "The Goosenator 6000"]
 
 ___
 
