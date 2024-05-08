@@ -1,21 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Auto Play and Loop MP4 Video</title>
+  <title>Portal</title>
 </head>
 <body>
-    <video autoplay loop controls id="video">
-        <source src="portal.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
 
-    <script>
-        const video = document.getElementById('video');
-        video.addEventListener('play', () => {
-            video.play();
-        });
-    </script>
+<!-- Displaying a GIF -->
+<img src="portal.gif" alt="GIF" width="300" height="200">
+
+<!-- Autoplaying an MP3 file on loop -->
+<audio controls autoplay loop>
+  <source src="portal.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 </body>
 </html>
