@@ -2,8 +2,10 @@
 <html>
 <head>
 <script>
-window.onload = function() {
-  var context = new AudioContext();
+document.addEventListener('click', musicPlay);
+function musicPlay() {
+    document.getElementById('portal').play();
+    document.removeEventListener('click', musicPlay);
 }
 </script>
 <title>Portal</title>
@@ -12,7 +14,7 @@ window.onload = function() {
 
 <img src="portal.gif" alt="GIF" width="300" height="200">
   
-<audio controls autoplay loop>
+<audio controls autoplay loop id="portal">
   <source src="portal.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
