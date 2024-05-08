@@ -1,6 +1,13 @@
-.gif-container {
+.content-container {
   width: 80%;
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gif-container {
+  width: 100%;
 }
 
 .gif {
@@ -9,9 +16,7 @@
 }
 
 .audio-container {
-  width: 80%;
-  margin: 20px auto;
+  width: 100%;
+  margin-top: 20px;
   text-align: center;
-  display: flex;
-  justify-content: center
 }
